@@ -1,0 +1,19 @@
+{
+    "name": "wolfpack #008",
+    "symbol": "WP",
+    "image": "8.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "8.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "BSBqdLds2ETNtSnQ42DafosbMcmPyBPPGgaxkE7TdvCp",
+                "share": 100
+            }
+        ]
+    }
+}
